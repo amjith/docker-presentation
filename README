@@ -1,0 +1,10 @@
+
+These are the demo recordings of docker presentation that I gave at PyCon 2014 and DjangoCon EU 2014 (Django Island). 
+
+You need to install `playitagainsam` (https://github.com/rfk/playitagainsam) in order to run these demos. 
+
+* pip install playitagainsam
+* pias replay basic_demo0
+* pias replay dockerfile_demo1
+
+
