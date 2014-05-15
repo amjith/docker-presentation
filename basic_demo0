@@ -1,0 +1,3264 @@
+{
+  "events": [
+    {
+      "act": "OPEN", 
+      "size": [
+        109, 
+        28
+      ], 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0478309154510498
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\rdocker@boot2docker:~$ \u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker version", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.028564929962158203
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Client version: 0.9.1\r\nGo version (client): go1.2.1\r\nGit commit (client): 3600720\r\nServer version: 0.9.1\r\nGit commit (server): 3600720\r\nGo version (server): go1.2.1\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0864680290222168
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Last stable version: 0.9.1\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0010089874267578125
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "docker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker pull base", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.028196096420288086
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[2K\rPulling repository base\r\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.498208999633789
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n\u001b[0A\u001b[2K\rb750fe79269d: Pulling image (ubuntu-quantl) from base \r\u001b[0B\u001b[1A\u001b[2K\rb750fe79269d: Pulling image (ubuntu-quantl) from base, endpoint: https://cdn-registry-1.docker.io/v1/ \r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 1.683413028717041
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\rb750fe79269d: Pulling dependent layers \r\u001b[1B\r\n\u001b[0A\u001b[2K\r27cf78414709: Download complete \r\u001b[0B\u001b[2A\u001b[2K\rb750fe79269d: Download complete \r\u001b[2B\u001b[2A\u001b[2K\rb750fe79269d: Download complete \r\u001b[2B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0029430389404296875
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "docker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "clear", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0007410049438476562
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[H\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0013399124145507812
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "docker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker images", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.027570009231567383
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "REPOSITORY          TAG                 IMAGE ID            CREATED             VIRTUAL SIZE\r\nbase                latest              b750fe79269d        12 months ago       175.3 MB\r\nbase                ubuntu-12.10        b750fe79269d        12 months ago       175.3 MB\r\nbase                ubuntu-quantal      b750fe79269d        12 months ago       175.3 MB\r\nbase                ubuntu-quantl       b750fe79269d        12 months ago       175.3 MB\r\ndocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker ps", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.03281593322753906
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES\r\ndocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "clear", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0009942054748535156
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[H\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0015649795532226562
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "docker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker run base echo Hello", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.1263570785522461
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Hello\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.15221905708312988
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "docker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker ps", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.03195786476135254
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES\r\ndocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "clear", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0009930133819580078
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[H\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.002174854278564453
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "docker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker run base /bin/sh -c \"W", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "while ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": " true; do echo Heo", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "llo ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "; so", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "leep 1; done\"", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.1295619010925293
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Hello\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 1.007148027420044
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Hello\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 1.007148027420044
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Hello\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 1.007148027420044
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Hello\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 1.007148027420044
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0003", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "^C", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.8667900562286377
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "docker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "[", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "A", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\rdocker@boot2docker:~$ docker run base /bin/sh -c \"while true; do echo Hello; sleep 1; done\"\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0001", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[69D", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "d", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "o", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "c", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "k", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "e", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": " ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "u", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": " ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "a", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "-base /bin/sh -c \"while true; do echo Hello; sleep 1; done\"\u001b[58D", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "dbase /bin/sh -c \"while true; do echo Hello; sleep 1; done\"\u001b[58D", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": " base /bin/sh -c \"while true; do echo Hello; sleep 1; done\"\u001b[58D", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "base /bin/sh -c \"while true; do echo Hello; sleep 1; done\"\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0651559829711914
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "d601495a52203202ac7d18c776eea423bcc155175b37c161a981334d42d1822d\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.010815858840942383
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "docker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker ps", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.03164410591125488
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "CONTAINER ID        IMAGE               COMMAND                CREATED             STATUS              PORTS               NAMES\r\nd601495a5220        base:latest         /bin/sh -c while tru   4 seconds ago       Up 3 seconds                            high_albattani      \r\ndocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker logs ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "d601495a5220", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.03261303901672363
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Hello\r\nHello\r\nHello\r\nHello\r\nHello\r\nHello\r\nHello\r\nHello\r\nHello\r\ndocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "clear", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[H\u001b[Jdocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker run -i -t base /bin/bash", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.12515902519226074
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "root@f948b350981f:/# ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "ls", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.001870870590209961
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "bin   dev  home  lib64\tmnt  proc  run\t selinux  sys  usr\r\nboot  etc  lib\t media\topt  root  sbin  srv\t  tmp  var\r\nroot@f948b350981f:/# ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "ps", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0012199878692626953
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "  USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND\r\nroot         1  2.6  0.1  11356  1524 ?        Ss   06:26   0:00 /bin/bash\r\nroot         7  0.0  0.1  13372  1048 ?        R+   06:26   0:00 ps aux\r\nroot@f948b350981f:/# ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "clear", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0027310848236083984
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[H\u001b[2J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0011169910430908203
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "root@f948b350981f:/# ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "apt-get update", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.010617971420288086
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r0% [Working]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.17847704887390137
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r            \rIgn http://archive.ubuntu.com quantal InRelease\r\n\r            \r25% [Working]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07915592193603516
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r             \rHit http://archive.ubuntu.com quantal Release.gpg\r\n\r50% [Working]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0808877944946289
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r             \rHit http://archive.ubuntu.com quantal Release\r\n\r50% [Working]\r             \r50% [Release gpgv 49.6 kB]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0028929710388183594
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                          \r30% [Working]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07952594757080078
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r             \rHit http://archive.ubuntu.com quantal/main amd64 Packages\r\n\r40% [Working]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.08262300491333008
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r             \rGet:1 http://archive.ubuntu.com quantal/universe amd64 Packages [5274 kB]\r\n\r             \r0% [1 Packages 13.4 kB/5274 kB 0%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0938819408416748
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                                  \r6% [1 Packages 306 kB/5274 kB 6%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0500680624389648
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r91% [1 Packages 4796 kB/5274 kB 91%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0391929507446289
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                                    \r100% [Working]\r              \r100% [1 Packages bzip2 0 B] [Waiting for headers]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0744619369506836
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                                                 \rGet:2 http://archive.ubuntu.com quantal/multiverse amd64 Packages [131 kB]\r\n\r                                                 \r98% [1 Packages bzip2 0 B] [2 Packages 31.9 kB/131 kB 24%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.06597518920898438
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                                                          \r100% [1 Packages bzip2 0 B] [Waiting for headers]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.08446693420410156
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                                                 \rGet:3 http://archive.ubuntu.com quantal/main Translation-en [660 kB]\r\n\r                                                 \r90% [1 Packages bzip2 0 B] [3 Translation-en 36.8 kB/660 kB 6%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.461331844329834
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                                                               \r100% [1 Packages bzip2 0 B] [Waiting for headers]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0774080753326416
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                                                 \rGet:4 http://archive.ubuntu.com quantal/multiverse Translation-en [100 kB]\r\n\r                                                 \r99% [1 Packages bzip2 0 B] [4 Translation-en 26.7 kB/100 kB 27%]\r                                                                \r100% [1 Packages bzip2 0 B]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07557487487792969
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                           \rGet:5 http://archive.ubuntu.com quantal/universe Translation-en [3648 kB]\r\n\r                           \r63% [1 Packages bzip2 0 B] [5 Translation-en 57.2 kB/3648 kB 2%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0414729595184326
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r70% [1 Packages bzip2 0 B] [5 Translation-en 706 kB/3648 kB 19%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.3303530216217041
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                                                                \r74% [5 Translation-en 1094 kB/3648 kB 30%]                                                      1179 kB/s 2s\r74% [2 Packages bzip2 0 B] [5 Translation-en 1094 kB/3648 kB 30%]                               1179 kB/s 2s", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.029623985290527344
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r75% [5 Translation-en 1201 kB/3648 kB 33%]                                                      1179 kB/s 2s\r75% [3 Translation-en bzip2 0 B] [5 Translation-en 1201 kB/3648 kB 33%]                         1179 kB/s 2s", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.18568992614746094
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r77% [5 Translation-en 1395 kB/3648 kB 38%]                                                      1179 kB/s 1s\r77% [4 Translation-en bzip2 0 B] [5 Translation-en 1395 kB/3648 kB 38%]                         1179 kB/s 1s", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.014637947082519531
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r96% [5 Translation-en 3291 kB/3648 kB 90%]                                                      1179 kB/s 0s", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.2674269676208496
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r100% [Working]                                                                                  1179 kB/s 0s\r100% [5 Translation-en bzip2 0 B]                                                               1179 kB/s 0s", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.09179911613464355
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r100% [5 Translation-en bzip2 0 B]                                                               1179 kB/s 0s", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0972410202026367
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r100% [5 Translation-en bzip2 0 B]                                                               1179 kB/s 0s", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0012459754943847656
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r100% [Working]                                                                                  1179 kB/s 0s\r                                                                                                            \rFetched 9813 kB in 9s (1065 kB/s)\r\n\rReading package lists... 0%\r\rReading package lists... 0%\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00876617431640625
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\rReading package lists... 1%\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.09119105339050293
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\rReading package lists... 12%\r\rReading package lists... 12%\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.6151678562164307
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\rReading package lists... 70%\r\rReading package lists... 70%\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.26175904273986816
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\rReading package lists... 99%\r\rReading package lists... 99%\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.025124073028564453
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\rReading package lists... Done\r\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0043261051177978516
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "root@f948b350981f:/# ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "clear", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0013048648834228516
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[H\u001b[2J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0005550384521484375
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "root@f948b350981f:/# ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "[", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "A", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "clear", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u001b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "[", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "A", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\b\b\b\bapt-get update", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0017", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\b\b\b\b\b\u001b[K", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "install fortune cowsay -y", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0019969940185546875
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\rReading package lists... 0%\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0013191699981689453
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0038728713989257812
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.017159223556518555
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.06982898712158203
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\rBuilding dependency tree... Done\r\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.03438305854797363
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Note, selecting 'fortune-mod' instead of 'fortune'\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0554499626159668
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "The following extra packages will be installed:\r\n  fortunes-min libclass-isa-perl libgdbm3 librecode0 libswitch-perl perl perl-modules\r\nSuggested packages:\r\n  filters fortunes x11-utils bsdmainutils perl-doc libterm-readline-gnu-perl libterm-readline-perl-perl\r\n  make libpod-plainer-perl\r\nThe following NEW packages will be installed:\r\n  cowsay fortune-mod fortunes-min libclass-isa-perl libgdbm3 librecode0 libswitch-perl perl perl-modules\r\n0 upgraded, 9 newly installed, 0 to remove and 0 not upgraded.\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00450897216796875
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Need to get 8764 kB of archives.\r\nAfter this operation, 34.5 MB of additional disk space will be used.\r\n\r\r0% [Working]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.16757512092590332
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r            \rGet:1 http://archive.ubuntu.com/ubuntu/ quantal/main libgdbm3 amd64 1.8.3-11 [34.2 kB]\r\n\r            \r0% [1 libgdbm3 2533 B/34.2 kB 7%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.15244317054748535
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                                 \r0% [Working]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07892489433288574
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r            \rGet:2 http://archive.ubuntu.com/ubuntu/ quantal/main librecode0 amd64 3.6-20 [770 kB]\r\n\r            \r1% [2 librecode0 24.4 kB/770 kB 3%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.49776792526245117
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r7% [2 librecode0 541 kB/770 kB 70%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.14013409614562988
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                                   \r9% [Waiting for headers]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07933211326599121
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                        \rGet:3 http://archive.ubuntu.com/ubuntu/ quantal/main libswitch-perl all 2.16-2 [19.2 kB]\r\n\r                        \r9% [3 libswitch-perl 19.2 kB/19.2 kB 100%]\r                                          \r9% [Working]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07256793975830078
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r            \rGet:4 http://archive.ubuntu.com/ubuntu/ quantal/main libclass-isa-perl all 0.36-3 [11.9 kB]\r\n\r            \r10% [4 libclass-isa-perl 11.9 kB/11.9 kB 100%]\r                                              \r10% [Waiting for headers]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07747793197631836
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                         \rGet:5 http://archive.ubuntu.com/ubuntu/ quantal/main perl-modules all 5.14.2-13 [3390 kB]\r\n\r                         \r10% [5 perl-modules 14.7 kB/3390 kB 0%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.49335813522338867
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                         \rGet:6 http://archive.ubuntu.com/ubuntu/ quantal/main perl amd64 5.14.2-13 [4417 kB]\r\n\r                         \r49% [6 perl 32.5 kB/4417 kB 1%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.4910590648651123
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r96% [6 perl 4228 kB/4417 kB 96%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.5043859481811523
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r97% [6 perl 4290 kB/4417 kB 97%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.5031771659851074
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r98% [6 perl 4335 kB/4417 kB 98%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.4975450038909912
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r98% [6 perl 4394 kB/4417 kB 99%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.19179296493530273
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                                \r99% [Waiting for headers]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.08445906639099121
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                         \rGet:7 http://archive.ubuntu.com/ubuntu/ quantal/universe cowsay all 3.03+dfsg1-4 [20.4 kB]\r\n\r                         \r99% [7 cowsay 12.1 kB/20.4 kB 59%]", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07313799858093262
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                                  \r99% [Waiting for headers]                                                                       1428 kB/s 0s", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07716107368469238
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                                                                                                            \rGet:8 http://archive.ubuntu.com/ubuntu/ quantal/universe fortune-mod amd64 1:1.99.1-6 [40.0 kB]\r\n\r99% [8 fortune-mod 13.4 kB/40.0 kB 34%]                                                         1428 kB/s 0s", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.22661209106445312
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r99% [Waiting for headers]                                                                       1428 kB/s 0s", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.08206915855407715
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r                                                                                                            \rGet:9 http://archive.ubuntu.com/ubuntu/ quantal/universe fortunes-min all 1:1.99.1-6 [61.4 kB]\r\n\r99% [9 fortunes-min 10.9 kB/61.4 kB 18%]                                                        1428 kB/s 0s", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.30609703063964844
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r100% [Working]                                                                                  1428 kB/s 0s\r                                                                                                            \rFetched 8764 kB in 6s (1290 kB/s)\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.1529700756072998
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Selecting previously unselected package libgdbm3:amd64.\r\n(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00042700767517089844
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r(Reading database ... 75%\r(Reading database ... 80%\r(Reading database ... 85%\r(Reading database ... 90%\r(Reading database ... 95%\r(Reading database ... 100%\r(Reading database ... 9893 files and directories currently installed.)\r\nUnpacking libgdbm3:amd64 (from .../libgdbm3_1.8.3-11_amd64.deb) ...\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.020069122314453125
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Unpacking cowsay (from .../cowsay_3.03+dfsg1-4_all.deb) ...\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.09300804138183594
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Selecting previously unselected package fortune-mod.\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.794929504394531e-05
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Unpacking fortune-mod (from .../fortune-mod_1%3a1.99.1-6_amd64.deb) ...\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.03135085105895996
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Selecting previously unselected package fortunes-min.\r\nUnpacking fortunes-min (from .../fortunes-min_1%3a1.99.1-6_all.deb) ...\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.5445950031280518
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Setting up libgdbm3:amd64 (1.8.3-11) ...\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.014250993728637695
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Setting up librecode0:amd64 (3.6-20) ...\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.012063980102539062
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Setting up libclass-isa-perl (0.36-3) ...\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00665283203125
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Setting up fortune-mod (1:1.99.1-6) ...\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.007871866226196289
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Setting up cowsay (3.03+dfsg1-4) ...\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.006000041961669922
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Processing triggers for libc-bin ...\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.001847982406616211
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "ldconfig deferred processing now taking place\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.6167800426483154
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "root@f948b350981f:/# ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "clear", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0011930465698242188
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[H\u001b[2J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0007560253143310547
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "root@f948b350981f:/# ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "/usr/games/for", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "tune ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "| /usr", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "/", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "gam", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "es/", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "cow", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u0007", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "s", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "ay ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.012133121490478516
+    }, 
+    {
+      "act": "WRITE", 
+      "data": " ________________________________________\r\n/ Try the Moo Shu Pork. It is especially \\\r\n\\ good today.                            /\r\n ----------------------------------------\r\n        \\   ^__^\r\n         \\  (oo)\\_______\r\n            (__)\\       )\\/\\\r\n                ||----w |\r\n                ||     ||\r\nroot@f948b350981f:/# ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "exit", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0009291172027587891
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "exit\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.04732012748718262
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "docker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "clear", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0002942085266113281
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[H\u001b[Jdocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "dockr", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "er ps", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.03178906440734863
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "CONTAINER ID        IMAGE               COMMAND                CREATED             STATUS              PORTS               NAMES\r\nd601495a5220        base:latest         /bin/sh -c while tru   2 minutes ago       Up 2 minutes                            high_albattani      \r\ndocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker stop d601495a5220", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.729703855514526367
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "d601495a5220\r\ndocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker ps", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.029703855514526367
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES\r\ndocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "clear", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0011529922485351562
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[H\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0017352104187011719
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "docker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker images", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.03331804275512695
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "REPOSITORY          TAG                 IMAGE ID            CREATED             VIRTUAL SIZE\r\nbase                latest              b750fe79269d        12 months ago       175.3 MB\r\nbase                ubuntu-12.10        b750fe79269d        12 months ago       175.3 MB\r\nbase                ubuntu-quantal      b750fe79269d        12 months ago       175.3 MB\r\nbase                ubuntu-quantl       b750fe79269d        12 months ago       175.3 MB\r\ndocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker run -i =t ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "-t base /bin/bash", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.11582112312316895
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "root@ccc555fafcdf:/# ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "/usr/ga", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "mes/", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "fortune", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\nbash: /usr/games/fortune: No such file or directory\r\nroot@ccc555fafcdf:/# ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "exit\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.05103898048400879
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "docker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker commit ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "f948b350981f ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "fortunate_cow", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.7279160022735596
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "2be715d40e12eaae43adaf3a8444caf81d64932094371a19a85d3dd2d45f3fe8\r\ndocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "clear", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0008521080017089844
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[H\u001b[Jdocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker images", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0341649055480957
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "REPOSITORY          TAG                 IMAGE ID            CREATED             VIRTUAL SIZE\r\nfortunate_cow       latest              2be715d40e12        9 seconds ago       314.5 MB\r\nbase                latest              b750fe79269d        12 months ago       175.3 MB\r\nbase                ubuntu-12.10        b750fe79269d        12 months ago       175.3 MB\r\nbase                ubuntu-quantal      b750fe79269d        12 months ago       175.3 MB\r\nbase                ubuntu-quantl       b750fe79269d        12 months ago       175.3 MB\r\ndocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "dockre ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "er run -=r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "i -t forfu", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[J", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "tunate_cow /bin/bash", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.12921690940856934
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "root@9616f8c8fda5:/# ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "/us", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "r/", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "gam", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "es/", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "tor", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b \b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b \b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "for", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b \b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b \b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b \b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b \b", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "for", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "tune ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.003965139389038086
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Your love life will be... interesting.\r\nroot@9616f8c8fda5:/# ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "exit", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.002209186553955078
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.04405403137207031
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "docker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "clear", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0033049583435058594
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[H\u001b[Jdocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker images", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.037162065505981445
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "REPOSITORY          TAG                 IMAGE ID            CREATED              VIRTUAL SIZE\r\nfortunate_cow       latest              2be715d40e12        About a minute ago   314.5 MB\r\nbase                latest              b750fe79269d        12 months ago        175.3 MB\r\nbase                ubuntu-12.10        b750fe79269d        12 months ago        175.3 MB\r\nbase                ubuntu-quantal      b750fe79269d        12 months ago        175.3 MB\r\nbase                ubuntu-quantl       b750fe79269d        12 months ago        175.3 MB\r\ndocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker tag fortunate_cow amjith/basetoys", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.029694080352783203
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "docker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker images", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.037162065505981445
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "REPOSITORY          TAG                 IMAGE ID            CREATED              VIRTUAL SIZE\r\nfortunate_cow       latest              2be715d40e12        About a minute ago   314.5 MB\r\namjith/basetoys     latest              2be715d40e12        About a minute ago   314.5 MB\r\nbase                latest              b750fe79269d        12 months ago        175.3 MB\r\nbase                ubuntu-12.10        b750fe79269d        12 months ago        175.3 MB\r\nbase                ubuntu-quantal      b750fe79269d        12 months ago        175.3 MB\r\nbase                ubuntu-quantl       b750fe79269d        12 months ago        175.3 MB\r\ndocker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "docker push amjith/basetoys", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.027158021926879883
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[2K\rThe push refers to a repository [amjith/basetoys] (len: 1)\r\r\n\u001b[2K\rSending image list\r\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.555405855178833
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00024819374084472656
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Please login prior to push:\r\nUsername: ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "amjith", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\nPassword: ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "0", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "H", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "f", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "z", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "#", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\nEmail: ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "amjith.r@gmail.com", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.7586150169372559
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Login Succeeded\r\n\u001b[2K\rThe push refers to a repository [amjith/basetoys] (len: 1)\r\r\n\u001b[2K\rSending image list\r\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 1.3069701194763184
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[2K\rPushing repository amjith/basetoys (1 tags)\r\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.5833320617675781
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n\u001b[0A\u001b[2K\r27cf78414709: Pushing \r\u001b[0B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.7278590202331543
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r27cf78414709: Image already pushed, skipping \r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.48155999183654785
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[2K\rImage b750fe79269d already pushed, skipping\r\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.7610301971435547
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n\u001b[0A\u001b[2K\r2be715d40e12: Pushing \r\u001b[0B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.7886230945587158
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 530.6 kB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.003184080123901367
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 1.059 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 1.606 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 2.131 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00028395652770996094
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 2.676 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0031299591064453125
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk  3.22 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.004168987274169922
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 3.747 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0053179264068603516
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 4.295 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.000614166259765625
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 4.826 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 5.362 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 5.919 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 6.476 MB\r", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0010280609130859375
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 7.033 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 7.572 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 8.129 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 8.686 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 9.243 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk   9.8 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 10.35 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 10.91 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 11.47 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 12.02 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 12.56 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 13.12 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 13.67 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 14.23 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 14.76 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.017539024353027344
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 15.31 MB\r\u001b[1B\u001b[1A", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 6.508827209472656e-05
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[2K\r2be715d40e12: Buffering to disk 15.87 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 16.43 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 16.96 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.007081031799316406
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 17.49 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 18.02 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 18.57 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 19.13 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00861501693725586
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 19.67 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.008836984634399414
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 20.19 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 20.73 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0016400814056396484
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 21.27 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0034101009368896484
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 21.79 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0027158260345458984
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 22.32 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.008308887481689453
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 22.85 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0011830329895019531
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 23.37 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.002479076385498047
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 23.91 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 24.44 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00414586067199707
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 24.99 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.002696990966796875
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 25.53 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.003511190414428711
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 26.07 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 26.63 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 27.17 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.006190061569213867
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 27.69 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0018830299377441406
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 28.22 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.007651090621948242
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 28.74 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.005715131759643555
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 29.27 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0008130073547363281
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 29.81 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.008849859237670898
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 30.35 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 30.88 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 31.44 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk    32 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.007586002349853516
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 32.54 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0006349086761474609
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 33.07 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 33.62 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0006971359252929688
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 34.15 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0006320476531982422
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 34.68 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 35.21 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 35.77 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 36.33 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 36.88 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 37.44 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk    38 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 38.54 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 39.09 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 39.65 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 40.21 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 40.76 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 41.32 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 41.88 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 42.44 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 42.99 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 43.54 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk  44.1 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 44.66 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 45.22 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 45.77 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 46.33 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 46.89 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 47.44 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk    48 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 48.56 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 49.11 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 49.67 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 50.23 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 50.79 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 51.34 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk  51.9 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 52.46 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 53.01 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 53.57 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 54.13 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 54.69 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 55.24 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk  55.8 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 56.36 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 56.91 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 57.47 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 58.03 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 58.58 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 59.14 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk  59.7 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 60.26 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 60.81 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 61.37 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 61.93 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 62.48 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 63.04 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk  63.6 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 64.16 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 64.71 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 65.27 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 65.83 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 66.37 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk  66.9 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 67.45 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 68.01 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 68.57 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 69.13 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 69.68 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 70.24 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk  70.8 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 71.35 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 71.91 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 72.47 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 73.03 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 73.58 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 74.14 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk  74.7 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 75.25 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 75.81 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 76.37 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 76.92 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 77.48 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 78.04 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk  78.6 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 79.15 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 79.71 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 80.27 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 80.82 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 81.38 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 81.94 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk  82.5 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 83.05 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 83.61 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 84.17 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 84.72 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 85.28 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 85.84 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 86.39 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 86.95 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 87.51 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 88.07 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 88.62 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 89.18 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 89.74 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 90.28 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 90.84 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 91.39 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 91.95 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 92.51 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 93.07 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 93.62 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 94.18 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 94.71 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 95.27 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 95.83 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 96.38 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 96.94 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk  97.5 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 98.05 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 98.61 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 99.17 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 99.73 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 100.3 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 100.8 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 101.4 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk   102 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 102.5 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 103.1 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 103.6 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 104.2 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 104.7 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 105.3 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 105.9 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 106.4 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk   107 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 107.5 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 108.1 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 108.6 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 109.2 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 109.8 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 110.3 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 110.9 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 111.4 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk   112 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 112.5 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 113.1 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 113.7 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 114.2 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 114.8 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 115.3 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 115.9 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 116.4 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk   117 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 117.6 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 118.1 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 118.7 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 119.2 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 119.8 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 120.3 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 120.9 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 121.5 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk   122 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 122.6 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 123.1 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 123.7 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 124.2 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 124.8 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 125.3 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 125.9 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 126.4 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk   127 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 127.6 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 128.1 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 128.7 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 129.2 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 129.8 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 130.3 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 130.9 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 131.5 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk   132 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 132.6 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 133.1 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 133.7 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 134.2 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 134.8 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 135.4 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 135.9 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 136.5 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk   137 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 137.6 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 138.1 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 138.7 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 139.3 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 139.8 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 140.3 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk 140.4 MB\r\u001b[1B\u001b[1A\u001b[2K\r2be715d40e12: Buffering to disk \r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.35701608657836914
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 530.6 kB/140.4 MB 1m59s\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.2545011043548584
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 1.059 MB/140.4 MB 1m33s\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.20936894416809082
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0002110004425048828
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[2K\r2be715d40e12: Pushing 1.606 MB/140.4 MB 1m19s\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.054075002670288086
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 2.131 MB/140.4 MB 1m3s\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.054438114166259766
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 2.676 MB/140.4 MB 53s\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.15111899375915527
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing  3.22 MB/140.4 MB 50s\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0960538387298584
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 3.747 MB/140.4 MB 46s\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.08329892158508301
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 4.295 MB/140.4 MB 43s\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.11272096633911133
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 4.826 MB/140.4 MB 41s\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.09891796112060547
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 5.362 MB/140.4 MB 40s\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07356381416320801
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 134.2 MB/140.4 MB 1s\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07499408721923828
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 134.8 MB/140.4 MB 1s\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07535409927368164
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 135.4 MB/140.4 MB 1s\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.08686709403991699
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 135.9 MB/140.4 MB 0\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.10190796852111816
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 136.5 MB/140.4 MB 0\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.08016109466552734
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing   137 MB/140.4 MB 0\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07560515403747559
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 137.6 MB/140.4 MB 0\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07678413391113281
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 138.1 MB/140.4 MB 0\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07225990295410156
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 138.7 MB/140.4 MB 0\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07463216781616211
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 139.3 MB/140.4 MB 0\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.06403207778930664
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 139.8 MB/140.4 MB 0\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.05775117874145508
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 140.3 MB/140.4 MB 0\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.246882915496826
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Pushing 140.4 MB/140.4 MB\r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.5045120716094971
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1A\u001b[2K\r2be715d40e12: Image successfully pushed \r\u001b[1B", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.017234086990356445
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[2K\rPushing tag for rev [2be715d40e12] on {https://registry-1.docker.io/v1/repositories/amjith/basetoys/tags/latest}\r\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 1.1844348907470703
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "docker@boot2docker:~$ ", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.02450108528137207
+    }, 
+    {
+      "act": "CLOSE", 
+      "term": "bae7f46731fa414693c4e8a28b383c56"
+    }
+  ], 
+  "shell": "/bin/zsh"
+}

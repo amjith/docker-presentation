@@ -1,0 +1,883 @@
+{
+  "events": [
+    {
+      "act": "OPEN", 
+      "size": [
+        109, 
+        28
+      ], 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0887471675872803
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J \r\n\u001b[35mamjith\u001b[00m@\u001b[33mamjith-mbp\u001b[00m: \u001b[01;34m~/docker_presentation\u001b[00m\r\n$ ",
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "c", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\bca", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "t dock", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.01561594009399414
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\b\b\bD\u001b[3Cerfile\u001b[1m \u001b[0m", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[0m \b\r\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0010759830474853516
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001bkcat\u001b\\", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.006688117980957031
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "FROM base\r\n\r\nENV TEST_ENV true\r\nADD test_file /\r\n\r\nRUN apt-get update\r\nRUN apt-get install -y fortune cowsay\r\n\r\nENV PATH $PATH:/usr/games\r\nCMD fortune | cowsay\r\n\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                            \r \r\u001bk.._presentation\u001b\\", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 6.413459777832031e-05
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                            \r \r\u001bk.._presentation\u001b\\", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.012018918991088867
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J \r\n\u001b[35mamjith\u001b[00m@\u001b[33mamjith-mbp\u001b[00m: \u001b[01;34m~/docker_presentation\u001b[00m\r\n$ ",
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "d", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\bdo", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "cker build . ", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b \b", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "-t autob", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b \b", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "_basetoys .", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.000782012939453125
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001bkdocker\u001b\\", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.09112906455993652
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Uploading context   535 kB\r", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.008323192596435547
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Uploading context 1.076 MB\r", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.02950596809387207
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Uploading context 1.608 MB\r", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.009798049926757812
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Uploading context 1.717 MB\r\r\r\nUploading context \r\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.032449960708618164
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Step 0 : FROM base\r\n ---> b750fe79269d\r\nStep 1 : ENV TEST_ENV true\r\n ---> Using cache\r\n ---> e9fd0fab6aa3\r\nStep 2 : ADD test_file /\r\n ---> Using cache\r\n ---> aacd25c5e4f6\r\nStep 3 : RUN apt-get update\r\n ---> Using cache\r\n ---> 2638b6825968\r\nStep 4 : RUN apt-get install -y fortune cowsay\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.017640113830566406
+    }, 
+    {
+      "act": "WRITE", 
+      "data": " ---> Running in 4b31580e4fd2\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.05665898323059082
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Reading package lists...", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0008819103240966797
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.004534006118774414
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Building dependency tree...", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.09343695640563965
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.09514498710632324
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "The following extra packages will be installed:\r\n  fortunes-min libclass-isa-perl libgdbm3 librecode0 libswitch-perl perl\r\n  perl-modules\r\nSuggested packages:\r\n  filters fortunes x11-utils bsdmainutils perl-doc libterm-readline-gnu-perl\r\n  libterm-readline-perl-perl make libpod-plainer-perl\r\nThe following NEW packages will be installed:\r\n  cowsay fortune-mod fortunes-min libclass-isa-perl libgdbm3 librecode0\r\n  libswitch-perl perl perl-modules\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.31740903854370117
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "0 upgraded, 9 newly installed, 0 to remove and 0 not upgraded.\r\nNeed to get 8764 kB of archives.\r\nAfter this operation, 34.5 MB of additional disk space will be used.\r\nGet:1 http://archive.ubuntu.com/ubuntu/ quantal/main libgdbm3 amd64 1.8.3-11 [34.2 kB]\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.446796178817749
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Get:2 http://archive.ubuntu.com/ubuntu/ quantal/main librecode0 amd64 3.6-20 [770 kB]\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0665098667144775
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Get:3 http://archive.ubuntu.com/ubuntu/ quantal/main libswitch-perl all 2.16-2 [19.2 kB]\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.15024304389953613
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Get:4 http://archive.ubuntu.com/ubuntu/ quantal/main libclass-isa-perl all 0.36-3 [11.9 kB]\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.15029311180114746
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Get:5 http://archive.ubuntu.com/ubuntu/ quantal/main perl-modules all 5.14.2-13 [3390 kB]\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.058615016937256
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Get:6 http://archive.ubuntu.com/ubuntu/ quantal/main perl amd64 5.14.2-13 [4417 kB]\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.140757083892822
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Get:7 http://archive.ubuntu.com/ubuntu/ quantal/universe cowsay all 3.03+dfsg1-4 [20.4 kB]\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.15085101127624512
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Get:8 http://archive.ubuntu.com/ubuntu/ quantal/universe fortune-mod amd64 1:1.99.1-6 [40.0 kB]\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.15376710891723633
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Get:9 http://archive.ubuntu.com/ubuntu/ quantal/universe fortunes-min all 1:1.99.1-6 [61.4 kB]\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.09603214263916016
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[91mdebconf: unable to initialize frontend: Dialog\r\ndebconf: (TERM is not set, so the dialog frontend is not usable.)\r\ndebconf: falling back to frontend: Readline\r\n\u001b[0m\u001b[91mdebconf: unable to initialize frontend: Readline\r\ndebconf: (Can't locate Term/ReadLine.pm in @INC (@INC contains: /etc/perl /usr/local/lib/perl/5.14.2 /usr/local/share/perl/5.14.2 /usr/lib/perl5 /usr/share/perl5 /usr/lib/perl/5.14 /usr/share/perl/5.14 /usr/local/lib/site_perl .) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 7, <> line 9.)\r\ndebconf: falling back to frontend: Teletype\r\n\u001b[0m\u001b[91mdpkg-preconfigure: unable to re-open stdin: \r\n\u001b[0mFetched 8764 kB in 13s (628 kB/s)\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.014122962951660156
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Selecting previously unselected package libgdbm3:amd64.\r\n(Reading database ... ", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0023789405822753906
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "9893 files and directories currently installed.)\r\nUnpacking libgdbm3:amd64 (from .../libgdbm3_1.8.3-11_amd64.deb) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.027464866638183594
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Selecting previously unselected package librecode0:amd64.\r\nUnpacking librecode0:amd64 (from .../librecode0_3.6-20_amd64.deb) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.04065704345703125
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Selecting previously unselected package libswitch-perl.\r\nUnpacking libswitch-perl (from .../libswitch-perl_2.16-2_all.deb) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0258331298828125
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Selecting previously unselected package libclass-isa-perl.\r\nUnpacking libclass-isa-perl (from .../libclass-isa-perl_0.36-3_all.deb) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.028003931045532227
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Selecting previously unselected package perl-modules.\r\nUnpacking perl-modules (from .../perl-modules_5.14.2-13_all.deb) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0510700702667236
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Selecting previously unselected package perl.\r\nUnpacking perl (from .../perl_5.14.2-13_amd64.deb) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0447229862213135
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Selecting previously unselected package cowsay.\r\nUnpacking cowsay (from .../cowsay_3.03+dfsg1-4_all.deb) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.09444308280944824
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Selecting previously unselected package fortune-mod.\r\nUnpacking fortune-mod (from .../fortune-mod_1%3a1.99.1-6_amd64.deb) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.03127002716064453
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Selecting previously unselected package fortunes-min.\r\nUnpacking fortunes-min (from .../fortunes-min_1%3a1.99.1-6_all.deb) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.03985190391540527
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Setting up libgdbm3:amd64 (1.8.3-11) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.012913942337036133
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Setting up librecode0:amd64 (3.6-20) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.013654947280883789
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Setting up libclass-isa-perl (0.36-3) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.003993988037109375
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Setting up fortune-mod (1:1.99.1-6) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0078051090240478516
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Setting up fortunes-min (1:1.99.1-6) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00551605224609375
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Setting up perl-modules (5.14.2-13) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.007187843322753906
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Setting up libswitch-perl (2.16-2) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.005368947982788086
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Setting up perl (5.14.2-13) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0062410831451416016
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "update-alternatives: using /usr/bin/prename to provide /usr/bin/rename (rename) in auto mode\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.002771139144897461
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Setting up cowsay (3.03+dfsg1-4) ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0065479278564453125
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Processing triggers for libc-bin ...\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00215911865234375
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "ldconfig deferred processing now taking place\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.056820821762085
+    }, 
+    {
+      "act": "WRITE", 
+      "data": " ---> f7ade006aa82\r\nStep 5 : ENV PATH $PATH:/usr/games\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0194399356842041
+    }, 
+    {
+      "act": "WRITE", 
+      "data": " ---> Running in 5339c4fc9ba2\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.04730415344238281
+    }, 
+    {
+      "act": "WRITE", 
+      "data": " ---> cd5224016d3c\r\nStep 6 : CMD fortune | cowsay\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.021019935607910156
+    }, 
+    {
+      "act": "WRITE", 
+      "data": " ---> Running in c0239be5cc89\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.03846883773803711
+    }, 
+    {
+      "act": "WRITE", 
+      "data": " ---> 7db85a08a432\r\nSuccessfully built 7db85a08a432\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.06744003295898438
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Removing intermediate container 4b31580e4fd2\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0034749507904052734
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Removing intermediate container 5339c4fc9ba2\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.002846956253051758
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Removing intermediate container c0239be5cc89\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.007762908935546875
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                            \r \r\u001bk.._presentation\u001b\\", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.016666173934936523
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J \r\n\u001b[35mamjith\u001b[00m@\u001b[33mamjith-mbp\u001b[00m: \u001b[01;34m~/docker_presentation\u001b[00m\r\n$ ",
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "d", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\bdo", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "ck", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0015", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\b\b\b    \b\b\b\b", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "c", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\bcl", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "ear", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0022499561309814453
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001bkclear\u001b\\", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.010087966918945312
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[H\u001b[J\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                            \r \r\u001bk.._presentation\u001b\\", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.004437923431396484
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J \r\n\u001b[35mamjith\u001b[00m@\u001b[33mamjith-mbp\u001b[00m: \u001b[01;34m~/docker_presentation\u001b[00m\r\n$ ",
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "d", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\bdo", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "cker images", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0006239414215087891
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001bkdocker\u001b\\", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.020186901092529297
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "REPOSITORY          TAG                 IMAGE ID            CREATED             VIRTUAL SIZE\r\nauto_basetoys       latest              7db85a08a432        13 seconds ago      338.2 MB\r\nfortunate_cow       latest              2be715d40e12        3 hours ago         314.5 MB\r\namjith/basetoys     latest              2be715d40e12        3 hours ago         314.5 MB\r\nbase                latest              b750fe79269d        12 months ago       175.3 MB\r\nbase                ubuntu-12.10        b750fe79269d        12 months ago       175.3 MB\r\nbase                ubuntu-quantal      b750fe79269d        12 months ago       175.3 MB\r\nbase                ubuntu-quantl       b750fe79269d        12 months ago       175.3 MB\r\n\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                            \r \r\u001bk.._presentation\u001b\\", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 1.948089599609375e-06
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J \r\n\u001b[35mamjith\u001b[00m@\u001b[33mamjith-mbp\u001b[00m: \u001b[01;34m~/docker_presentation\u001b[00m\r\n$ ",
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "d", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\bdo", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "xk", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b \b", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b \b", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "cker run auto_basetoys", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.002953052520751953
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001bkdocker\u001b\\", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.312608003616333
+    }, 
+    {
+      "act": "WRITE", 
+      "data": " _______________________________________\r\n< You will inherit millions of dollars. >\r\n ---------------------------------------\r\n        \\   ^__^\r\n         \\  (oo)\\_______\r\n            (__)\\       )\\/\\\r\n                ||----w |\r\n                ||     ||\r\n", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.14242100715637207
+    }, 
+    {
+      "act": "CLOSE", 
+      "term": "9a6950b351694dfcab46b288eb23435e"
+    }
+  ], 
+  "shell": "/bin/zsh"
+}
